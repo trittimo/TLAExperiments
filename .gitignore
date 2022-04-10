@@ -3,3 +3,7 @@
 *.out
 *.tex
 *.pdf
+toolbox/*
+*.fp
+*.st
+*_SnapShot_*
